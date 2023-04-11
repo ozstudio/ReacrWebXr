@@ -2,7 +2,7 @@
 // https://github.com/pmndrs/react-three-fiber/blob/master/example/src/App.tsx
 import React from 'react'
 import { demoDots, demoName, demoPanel, dot, error, loadingContainer, loadingMessage, page } from './styles.css'
-import { Link, Redirect, Route, useRoute } from 'wouter'
+import { Link, Redirect, Route, useRoute } from 'wouter';
 
 import * as demos from './demos'
 import useErrorBoundary from 'use-error-boundary'
